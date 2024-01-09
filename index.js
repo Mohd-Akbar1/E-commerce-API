@@ -12,6 +12,7 @@ mongoose.connect('mongodb+srv://abbashasmi:5WZyJGyvGAxDJamx@cluster0.ai7mzh6.mon
 
 app.use('/',router)
 
+//listening on port 8000
 app.listen(process.env.PORT || 8000,function(){
     console.log('Server is running on port 8000')
 })
