@@ -12,8 +12,9 @@
 + user can delete any Product
 
 # How to use API
++ clone the project
 + run "npm init" command on terminal in this projects directory
-+ start the server using node app.js
++ start the server using node index.js
 + Use Postman
 + Make a GET request on localhost:8000
 + products will display
@@ -26,7 +27,7 @@
 + make post request
 + will get Successfully created as a message .
 
-## steps to delte
+## steps to delete
 + selete the object id to delete
 + put the id after http://localhost:8000/products/   As  http://localhost:8000/products/659c572fcac46573c4bebece
 + make delte request
