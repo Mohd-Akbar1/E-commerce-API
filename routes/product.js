@@ -6,7 +6,6 @@ const {GetAllProducts,Createproducts,DeleteProduct,UpdateProducts}=require('../c
 
 //get request to display whole List of products
 router.get('/',GetAllProducts)
-router.get('/products',GetAllProducts)
 
 //post request for creating products
 router.post('/products/create',Createproducts)
