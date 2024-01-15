@@ -25,7 +25,7 @@
 + Select Body tab below the url textarea and then select x-www-form-urlencoded
 + Add name & quantity as the keys and set the  values .
 + make post request
-+ will get Successfully created as a message .
++ will get Successfully created And message will display.
 
 ## steps to delete
 + selete the object id to delete
