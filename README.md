@@ -42,3 +42,7 @@
 + make a post request
 + getting Successfully Updated means it has been updated
 
+
+# Screen of API 
++ sample data
+![sample](https://github.com/Mohd-Akbar1/E-commerce-API/assets/146831190/ce9ab584-5cc6-42cd-8f37-bbc10b8051cb)
